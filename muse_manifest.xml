@@ -1,0 +1,136 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="shalom.com" resolutions="1x" timestamp="1598554955489">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="442332640" ref="index"/>
+    <file name="nomq_index.css" crc="4161360742" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="24-horas.svg" crc="3864786321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="24 horas_poster_.png" crc="312717968" ref="index"/>
+    <file name="banner-principal.jpg" crc="339881002" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slogan.svg" crc="143821446" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slogan_poster_.png" crc="3911907575" ref="index"/>
+    <file name="doctor.jpg" crc="169077712" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="servicio-1.svg" crc="4032865908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="servicio 1_poster_.png" crc="375012488" ref="index"/>
+    <file name="servicio-2.svg" crc="3976235165" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="servicio 2_poster_.png" crc="4290487677" ref="index"/>
+    <file name="servicio-3.svg" crc="214547992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="servicio 3_poster_.png" crc="316794843" ref="index"/>
+    <file name="servicio-4.svg" crc="381400750" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="servicio 4_poster_.png" crc="6682358" ref="index"/>
+    <file name="servicios.jpg" crc="4283733396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="doc.svg" crc="4100991179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="doc_poster_.png" crc="94067462" ref="index"/>
+    <file name="especialistas.jpg" crc="234849781" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="celular-2.svg" crc="501723735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="celular 2_poster_.png" crc="4217744991" ref="index"/>
+    <file name="pin-2.svg" crc="139401700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pin 2_poster_.png" crc="467796646" ref="index"/>
+    <file name="facebook.svg" crc="3911496215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook_poster_.png" crc="4191695588" ref="index"/>
+    <file name="instagram.svg" crc="4043373488" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram _poster_.png" crc="457881484" ref="index"/>
+    <file name="email.svg" crc="4011109028" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email_poster_.png" crc="211049027" ref="index"/>
+    <file name="logo-shalom.svg" crc="291568696" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo shalom_poster_.png" crc="315062361" ref="index"/>
+    <file name="celular.svg" crc="301888627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="celular_poster_.png" crc="91414789" ref="index"/>
+    <file name="pin.svg" crc="156516525" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pin_poster_.png" crc="4073041193" ref="index"/>
+    <file name="cactus-crop-u132.jpg" crc="4141745940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u130.jpg" crc="3780384091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus-crop-u1322.jpg" crc="77285685" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u1302.jpg" crc="3966628488" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="299330723" seo="true" mt="1598554938585" redirect="true"/>
+</manifest>
